@@ -1,0 +1,2 @@
+# stackreplicate
+my_stack
